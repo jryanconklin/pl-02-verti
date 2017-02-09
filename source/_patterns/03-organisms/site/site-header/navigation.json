@@ -1,0 +1,26 @@
+{
+  "navtext": "test",
+
+  "navigation": [
+    {
+      "title": "Welcome",
+      "url": "/"
+    },
+    {
+      "title": "Dropdown",
+      "url": "example.com"
+    },
+    {
+      "title": "Left Sidebar",
+      "url": "example.com"
+    },
+    {
+      "title": "Right Sidebar",
+      "url": "example.com"
+    },
+    {
+      "title": "No Sidebar",
+      "url": "example.com"
+    }
+  ]
+}

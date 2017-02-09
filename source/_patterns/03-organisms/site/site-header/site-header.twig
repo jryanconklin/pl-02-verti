@@ -1,4 +1,9 @@
-<header class="site-header">
-  {% include "@molecules/branding.twig" %}
-  <h2>Site Header</h2>
+<header id="header" class=""container>
+    {% include "@atoms/images/logo.twig" %}
+
+    {% include "@molecules/navigation/navigation.twig"  with {
+        url: navigation.url,
+        title: navigation.title
+    } %}
+
 </header>

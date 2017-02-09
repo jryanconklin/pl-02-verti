@@ -1,0 +1,10 @@
+<nav id="nav">
+    <ul>
+        {% for link in navigation  %} with {
+            url: link.url,
+            title: link.title
+            }
+            {% include "@atoms/nav-link/nav-link.twig" %}
+        {% endfor %}
+    </ul>
+</nav>
