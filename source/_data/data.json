@@ -1,0 +1,23 @@
+{
+  "pl": true,
+  "theme": "Verti",
+  "themeSubtitle": "by PL CLONE",
+
+  "navigation": [
+      {
+      "title": "Welcome",
+      "url": "example.com"
+    },
+    {
+      "title": "Welcome",
+      "url": "example.com"
+    }
+  ]
+
+
+
+
+
+
+
+}
